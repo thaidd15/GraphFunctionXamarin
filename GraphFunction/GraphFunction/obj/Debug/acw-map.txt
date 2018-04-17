@@ -1,0 +1,16 @@
+GraphFunction.Views.GraphView, GraphFunction;md52aa804f3e0dd977c1f25000e7d3541a5.GraphView
+GraphFunction.Views.GraphView, GraphFunction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52aa804f3e0dd977c1f25000e7d3541a5.GraphView
+GraphFunction.Views.GraphView;md52aa804f3e0dd977c1f25000e7d3541a5.GraphView
+graphfunction.views.GraphView;md52aa804f3e0dd977c1f25000e7d3541a5.GraphView
+GraphFunction.Views.IntegralView, GraphFunction;md52aa804f3e0dd977c1f25000e7d3541a5.IntegralView
+GraphFunction.Views.IntegralView, GraphFunction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52aa804f3e0dd977c1f25000e7d3541a5.IntegralView
+GraphFunction.Views.IntegralView;md52aa804f3e0dd977c1f25000e7d3541a5.IntegralView
+graphfunction.views.IntegralView;md52aa804f3e0dd977c1f25000e7d3541a5.IntegralView
+GraphFunction.Activities.AboutActivity, GraphFunction;md585c79d8c95fa3994657870ba9ea1770f.AboutActivity
+GraphFunction.Activities.AboutActivity, GraphFunction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md585c79d8c95fa3994657870ba9ea1770f.AboutActivity
+GraphFunction.Activities.AboutActivity;md585c79d8c95fa3994657870ba9ea1770f.AboutActivity
+graphfunction.activities.AboutActivity;md585c79d8c95fa3994657870ba9ea1770f.AboutActivity
+GraphFunction.Activities.MainActivity, GraphFunction;md585c79d8c95fa3994657870ba9ea1770f.MainActivity
+GraphFunction.Activities.MainActivity, GraphFunction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md585c79d8c95fa3994657870ba9ea1770f.MainActivity
+GraphFunction.Activities.MainActivity;md585c79d8c95fa3994657870ba9ea1770f.MainActivity
+graphfunction.activities.MainActivity;md585c79d8c95fa3994657870ba9ea1770f.MainActivity

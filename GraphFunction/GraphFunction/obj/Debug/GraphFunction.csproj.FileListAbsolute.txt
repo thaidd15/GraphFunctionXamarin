@@ -1,0 +1,68 @@
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\GraphFunction.dll
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\GraphFunction.pdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\GraphFunction.GraphFunction.apk
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\GraphFunction.GraphFunction-Signed.apk
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\GraphFunction.csprojResolveAssemblyReference.cache
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\GraphFunction.dll
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\GraphFunction.pdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\bin\GraphFunction.GraphFunction.apk
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\layout\about.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\layout\inputfilename.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\layout\main.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\values\strings.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\menu\optionmenu.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\drawable\icon.png
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\R.cs.flag
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\uploadflags.txt
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\GraphFunction.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\Java.Interop.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\Mono.Android.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\mscorlib.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\System.Core.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\System.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\System.Net.Http.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\System.Xml.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\System.Xml.Linq.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\GraphFunction.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\System.Core.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\System.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\drawable\edittextborder.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\drawable\buttondraw.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\drawable\buttonintegral.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\obj\Debug\res\drawable\colorcursor.xml
+D:\Study\Study\C# Programing\Project\Xamarin\GraphFunction\GraphFunction\bin\Debug\GraphFunction.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\GraphFunction.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
